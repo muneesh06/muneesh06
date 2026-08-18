@@ -13,7 +13,7 @@ I build small, working things around LLMs and data — agents, retrieval, evalua
 | **[evalkit](https://github.com/muneesh06/evalkit)** | Text-to-SQL eval harness — execution accuracy with strict and subset metrics, running locally on Ollama. |
 | **[rag-notes](https://github.com/muneesh06/rag-notes)** | Local RAG demo — TF-IDF index over `.txt`/`.md`, extractive answers, no API keys. |
 | **[tiny-rag-playground](https://github.com/muneesh06/tiny-rag-playground)** | A minimal RAG pipeline in Python — chunk, embed, retrieve, answer. Small enough to read end to end. |
-| **[customer-order-analysis](https://github.com/muneesh06/customer-order-analysis)** | Order data analysis: cohorts, repeat rate, revenue trends. |
+| **[customer-order-analysis](https://github.com/muneesh06/customer-order-analysis)** | Order & sales analysis exercises — revenue by category, top spender, most-purchased product, with and without pandas. |
 | **[portfolio](https://github.com/muneesh06/portfolio)** | My personal site, built with TypeScript. |
 
 ---
